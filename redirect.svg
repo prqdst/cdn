@@ -3,9 +3,7 @@
   <text x="50%" y="40%" font-size="24" text-anchor="middle" fill="black">
     We moved this website to
   </text>
-  <a xlink:href="https://hackerone.com">
-    <text x="50%" y="60%" font-size="24" text-anchor="middle" fill="blue">
-      site.com 
-    </text>
-  </a>
+  <text x="50%" y="60%" font-size="24" text-anchor="middle" fill="blue">
+    site.com
+  </text>
 </svg>
