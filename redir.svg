@@ -8,6 +8,6 @@
         We have moved to <a href="https://evil.com" fill="red">evil.com</a>
     </text>
     <text x="50%" y="70%" font-size="20" fill="white" text-anchor="middle" dominant-baseline="middle">
-        You will be redirected automatically in 5 seconds...
+        If you are not redirected, please copy and visit the URL
     </text>
 </svg>
